@@ -87,9 +87,6 @@ http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
 http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
 
 #EXTINF:-1, group-title="Украина",2+2
-https://live-k2306-kbp.1plus1.video/187534/smil:187534.smil/chunklist_b4628000.m3u8
-
-#EXTINF:-1, group-title="Украина",2+2
 http://212.115.229.81:1935/out/9tv_fb/playlist.m3u8
 
 #EXTINF:-1, group-title="Украина",NewsOne
