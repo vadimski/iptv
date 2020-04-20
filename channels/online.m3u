@@ -85,16 +85,10 @@ http://81.196.0.126:80/utvedge/utvlive/index.m3u8
 http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Romania",UTV
 http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
-
 #EXTINF:-1, group-title="Украина",2+2
 http://212.115.229.81:1935/out/9tv_fb/playlist.m3u8
-
 #EXTINF:-1, group-title="Украина",NewsOne
 http://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/index.m3u8
-
-#EXTINF:-1, group-title="Украина",TV5 (Запоріжжя)
-https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
-
 #EXTINF:-1 tvg-id="24news-ua" tvg-name="24 Украина" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/ukDXNWM.png" group-title="Украина",24 канал
 http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
 #EXTINF:-1 tvg-id="24news-ua" tvg-name="24 Украина" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/ukDXNWM.png" group-title="Украина",24 канал
