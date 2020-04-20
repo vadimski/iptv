@@ -17,6 +17,8 @@ http://78.109.108.62:2001/protv
 http://89.38.8.131:39520
 #EXTINF:0,Eurosport
 http://188.214.39.67:5653/esr
+#EXTINF:-1,BBC Earth HD
+http://live.astvpro.com:8880/KP53yqExFU/sWr6rfMtcB/213
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://www.digi24.ro/static/theme-repo/bin/images/digi24-logo.png" group-title="Romania",Digi24
 http://live.astvpro.com:8880/KP53yqExFU/sWr6rfMtcB/42
 #EXTINF:-1 tvg-id="B1 RO" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="Romania",B1
