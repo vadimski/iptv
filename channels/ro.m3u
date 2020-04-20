@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideromania.xml.gz"
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" group-title="Music",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="6 TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/f5Ddkx2.png" group-title="Romania",6 TV
@@ -59,7 +59,7 @@ http://46.55.111.242:8080/Rezina.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/kQJ10r8/est-tv-ro.png" group-title="Romania",EST TV Neamt
 http://89.38.8.130:39435
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/bJVG9HX/GTV.jpg" group-title="Romania",GTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/bJVG9HX/GTV.jpg" group-title"Romania",GTV
 rtmp://gtv1.arya.ro:1935/live/gtv1.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/JK6Rypn.jpg" group-title="Romania",Iasi TV Life
 http://webmobile.xdev.ro:81/tv24/playlist.m3u8
