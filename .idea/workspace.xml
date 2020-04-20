@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2813a87b-c742-45c7-b87e-691ecb210884" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/channels/ro.m3u" beforeDir="false" afterPath="$PROJECT_DIR$/channels/ro.m3u" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.m3u" beforeDir="false" afterPath="$PROJECT_DIR$/index.m3u" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1anpH894p6grBTiifByALs6wBnp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2813a87b-c742-45c7-b87e-691ecb210884" name="Default Changelist" comment="" />
+      <created>1587381122259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587381122259</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587387196021">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="445" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.829@0.23.1440.829" timestamp="1587387196021" />
+    <state x="378" y="194" width="837" height="550" key="find.popup" timestamp="1587385241292">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="378" y="194" width="837" height="550" key="find.popup/0.23.1440.829@0.23.1440.829" timestamp="1587385241292" />
+  </component>
+</project>
