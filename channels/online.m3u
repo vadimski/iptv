@@ -1,42 +1,42 @@
-#EXTINF:-1 tvg-id="Antena 1" tvg-name="Antena 1" tvg-language="Romanian", Antena 1
+#EXTINF:0,Antena 1
 http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2333.ts?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="B1" tvg-name="B1" tvg-language="Romanian", B1
+#EXTINF:0,B1
 http://stream.adunity.com/b1/b1_640-.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-language="Romanian", Cinemax
+#EXTINF:0 Cinemax
 http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/2094?checkedby:hlscat.com
-#EXTINF:-1, Digi 24
+#EXTINF:0,Digi 24
 https://edge75.rcs-rds.ro/V4-2458963-cbef86f6c00885fdbe18baa50543cc75-1380742342-0-1609097875-472-digi24/digi24/digi24hq.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Romanian", Kanal D
+#EXTINF:0,Kanal D
 http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2348.ts?checkedby:hlscat.com
 #EXTINF:0,Eurosport
 http://188.214.39.67:5653/esr
-#EXTINF:-1 tvg-id="National 24 Plus" tvg-name="National 24 Plus" tvg-language="Romanian", National 24 Plus
+#EXTINF:0,National 24 Plus
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/12029?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-language="Romanian", National Geographic Wild
+#EXTINF:0,National Geographic Wild
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/2252?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-language="Romanian", National Geographic
+#EXTINF:0,National Geographic
 http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2356.ts?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="National Tv" tvg-name="National Tv" tvg-language="Romanian", National Tv
+#EXTINF:0,National Tv
 http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2351.ts?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="Pro Tv" tvg-name="Pro Tv" tvg-language="Romanian", Pro Tv
+#EXTINF:0,Pro Tv
 http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2347.ts?checkedby:hlscat.com
 #EXTINF:0,Prima TV
 https://stream1.1616.ro:1945/prima/livestream/chunklist_w=.m3u8
-#EXTINF:-1 tvg-id="Realitatea Tv" tvg-name="Realitatea Tv" tvg-language="Romanian", Realitatea Tv
+#EXTINF:0,Realitatea Tv
 http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2354.ts?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="Tvr 1" tvg-name="Tvr 1" tvg-language="Romanian", Tvr 1
+#EXTINF:0,Tvr 1
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="Tvr 2" tvg-name="Tvr 2" tvg-language="Romanian", Tvr 2
+#EXTINF:0,Tvr 2
 http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2338.ts?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="Tvr 3" tvg-name="Tvr 3" tvg-language="Romanian", Tvr 3
+#EXTINF:0,Tvr 3
 http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2339.ts?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="Travel Mix" tvg-name="Travel Mix" tvg-language="Romanian", Travel Mix
+#EXTINF:0,Travel Mix
 https://ch.iptvmate.net/7c06b81435fa03b0939289718990d5de.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="Publica" tvg-name="Publica" tvg-language="Romanian", Publica
+#EXTINF:0,Publica
 https://livebeta.publika.md/LIVE/P/1500.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="Sport" tvg-name="Sport" tvg-language="Russian", Sport
+#EXTINF:0,Sport
 http://dmitry-tv.my1.ru/his/ua/CH_SPORTHD_720.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="Mir 24" tvg-name="Mir 24" tvg-language="Russian", Mir 24
+#EXTINF:0,Mir 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="RBK" tvg-name="RBK" tvg-language="Russian", RBK
+#EXTINF:0,RBK
 http://online-video.rbc.ru/online/rbctv_480p/index.m3u8?e=e8&t=IbzcGc&checkedby:hlscat.com
