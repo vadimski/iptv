@@ -1,42 +1,56 @@
-#EXTINF:0,Antena 1
-http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2333.ts?checkedby:hlscat.com
-#EXTINF:0,B1
-http://stream.adunity.com/b1/b1_640-.m3u8?checkedby:hlscat.com
-#EXTINF:0 Cinemax
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/2094?checkedby:hlscat.com
-#EXTINF:0,Digi 24
-https://edge75.rcs-rds.ro/V4-2458963-cbef86f6c00885fdbe18baa50543cc75-1380742342-0-1609097875-472-digi24/digi24/digi24hq.stream/chunklist.m3u8
-#EXTINF:0,Kanal D
-http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2348.ts?checkedby:hlscat.com
-#EXTINF:0,Eurosport
-http://188.214.39.67:5653/esr
-#EXTINF:0,National 24 Plus
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/12029?checkedby:hlscat.com
-#EXTINF:0,National Geographic Wild
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/2252?checkedby:hlscat.com
-#EXTINF:0,National Geographic
-http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2356.ts?checkedby:hlscat.com
-#EXTINF:0,National Tv
-http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2351.ts?checkedby:hlscat.com
-#EXTINF:0,Pro Tv
-http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2347.ts?checkedby:hlscat.com
-#EXTINF:0,Prima TV
-https://stream1.1616.ro:1945/prima/livestream/chunklist_w=.m3u8
-#EXTINF:0,Realitatea Tv
-http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2354.ts?checkedby:hlscat.com
-#EXTINF:0,Tvr 1
-https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0,Tvr 2
-http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2338.ts?checkedby:hlscat.com
-#EXTINF:0,Tvr 3
-http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2339.ts?checkedby:hlscat.com
-#EXTINF:0,Travel Mix
-https://ch.iptvmate.net/7c06b81435fa03b0939289718990d5de.m3u8?checkedby:hlscat.com
-#EXTINF:0,Publica
-https://livebeta.publika.md/LIVE/P/1500.m3u8?checkedby:hlscat.com
-#EXTINF:0,Sport
-http://dmitry-tv.my1.ru/his/ua/CH_SPORTHD_720.m3u8?checkedby:hlscat.com
-#EXTINF:0,Mir 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0,RBK
-http://online-video.rbc.ru/online/rbctv_480p/index.m3u8?e=e8&t=IbzcGc&checkedby:hlscat.com
+#EXTM3U 23:39 24.05.2021
+
+
+#EXTINF:0,Accent TV
+https://video.a-tv.md/live/accent1m.m3u8
+
+#EXTINF:0,Bălți TV
+http://77.89.199.174:81/hls/live2.m3u8
+
+#EXTINF:0,Canal 2
+http://91.230.214.75/LIVE/2/index.m3u8
+
+#EXTINF:0,Canal 3
+http://91.230.214.75/LIVE/3/2000.m3u8
+
+#EXTINF:0,Drochia TV
+https://hls.drochia.tv/tv/web.m3u8
+
+#EXTINF:0,Elita TV
+http://46.55.111.242:8080/Rezina.m3u8
+
+#EXTINF:0,Moldova 1
+http://live.trm.md:1935/live/_definst_/MoldovaUnu1/chunklist_w866294327.m3u8
+
+#EXTINF:0,Moldova 2
+http://live.trm.md:1935/live/_definst_/MoldovaDoi2/chunklist_w1306778223.m3u8
+
+#EXTINF:0,Noroc TV
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+
+#EXTINF:0,НТВ Молдова
+http://93.115.137.166/hls/ntvm.m3u8
+
+#EXTINF:0,Prime
+http://91.230.214.75/LIVE/1/600.m3u8
+
+#EXTINF:0,Primul în Moldova
+https://video.a-tv.md/live/primul.m3u8
+
+#EXTINF:0,Publika TV
+https://livebeta.publika.md/LIVE/P/1500.m3u8
+
+#EXTINF:0,Realitatea LIVE
+https://hls2.realitatealive.md/chanel/tv/rlive.m3u8
+
+#EXTINF:0,Tezaur
+http://tezaur.mlbfan.org/tezaur/index.m3u8
+
+#EXTINF:0,TV 6
+https://streamtvc.tk/ctv/stream_high/index.m3u8
+
+#EXTINF:0,TVR Moldova
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/chunklist_b6096000.m3u8
+
+#EXTINF:0,Vocea Basarabiei TV
+http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
